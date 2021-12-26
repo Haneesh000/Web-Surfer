@@ -1,0 +1,24 @@
+body {
+    background: rgb(197, 188, 188);
+    font-family: Tahoma;
+}
+
+#screenshot {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 10;
+    font-size: 2em;
+}
+
+#safetext {
+    font-size: 1.5em;
+    color: blue;
+    font-family: sans-serif;
+}
+
+hr {
+    color: rgb(100, 100, 100);
+}
+
+#software {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
